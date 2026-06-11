@@ -1,0 +1,1 @@
+Study on mechanism of sidewall roughness scattering in slot optical waveguides by FDTD simulation
